@@ -7,7 +7,7 @@ import numpy as np
 parks_subset = pd.read_csv('../data/parks_subset.csv')
 
 # Initialize Google Maps API client
-api_key_g = 'AIzaSyBsZE5PsKrO7cQP1vUILx4j9HMCdPK3x_g'
+api_key_g = 'API_KEY'
 gmaps = googlemaps.Client(key=api_key_g)
 
 def GenerateGoogleMapsArray(origins, destinations):

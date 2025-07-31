@@ -32,7 +32,7 @@ import pandas as pd
 import time
 from tqdm import tqdm 
 
-api_key = "fpyJ9NycrgZX5mK8f0n90c4qXGPcYAsBPwt4BLJk"
+api_key = "API_KEY"
 url = "https://developer.nps.gov/api/v1/parks"
 
 def fetch_all_parks(api_key):

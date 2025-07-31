@@ -6,7 +6,7 @@ import os
 repo_root = os.path.abspath(os.path.dirname(__file__))
 states_file = os.path.join(repo_root, 'data', 'states_master.csv')
 parks_file = os.path.join(repo_root, 'data', 'parks_subset.csv')
-api_key = 'AIzaSyBsZE5PsKrO7cQP1vUILx4j9HMCdPK3x_g'  # Use a free or restricted key
+api_key = 'API_KEY'  # Use a free or restricted key
 
 # UI: Title and input
 st.title("🗺️ National Parks Roadtrip Planner")

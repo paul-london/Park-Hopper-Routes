@@ -94,7 +94,7 @@ Park-Hopper-Routes/
 
 ## 🧭 Next Steps
 
-- Explore more advanced and accurate route algorithms.
+- Explore more advanced and accurate routing algorithms.
 - Create regional roadtrips based on starting location and their distance.
 - Expand starting point selection to include all states and possibly cities.
 - Generate route maps in real-time.
